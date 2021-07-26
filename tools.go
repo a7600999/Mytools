@@ -5,3 +5,8 @@ import "fmt"
 func init() {
 	fmt.Println("git test")
 }
+func test() {
+
+	fmt.Println(1234)
+
+}
